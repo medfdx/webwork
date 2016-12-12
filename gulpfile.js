@@ -1,7 +1,7 @@
 /**
- * gulp demo
+ *  
  *
- * by kele527
+ *  
  */
 
 var del = require('del'); //清除文件
